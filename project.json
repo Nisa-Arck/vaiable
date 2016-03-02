@@ -1,0 +1,10 @@
+{
+    "name": "vaiable",
+    "version": "1.0.0",
+    "manifest_version": 1,
+    "project_type": "application",
+    "executable_type": "scratch",
+    "executable": "vaiable.xml",
+    "author": "Nisa-Arck",
+    "minimum_firmware_version": 42
+}
