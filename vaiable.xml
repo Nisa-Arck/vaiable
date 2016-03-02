@@ -40,6 +40,9 @@
                                 <field name="VAR">leftFrontObjectSensor</field>
                               </block>
                             </value>
+                            <next>
+                              <block type="multimedia_doupdate" id="159"></block>
+                            </next>
                           </block>
                         </next>
                       </block>
